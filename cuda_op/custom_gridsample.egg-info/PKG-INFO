@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: custom-gridsample
+Version: 0.0.0
+Summary: Custom grid sample
+Author: Liuchun Yuan
+Author-email: ylc0003@gmail.com
+Requires-Python: >=3.6

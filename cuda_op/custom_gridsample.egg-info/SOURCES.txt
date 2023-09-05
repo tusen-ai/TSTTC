@@ -1,0 +1,12 @@
+__init__.py
+grid_sample.cpp
+grid_sample_helper.hpp
+grid_sample_kernel.cu
+ops.py
+setup.py
+custom_gridsample.egg-info/PKG-INFO
+custom_gridsample.egg-info/SOURCES.txt
+custom_gridsample.egg-info/dependency_links.txt
+custom_gridsample.egg-info/requires.txt
+custom_gridsample.egg-info/top_level.txt
+dist/custom_gridsample-0.0.0-py3.8-linux-x86_64.egg

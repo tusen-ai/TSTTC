@@ -1,0 +1,4 @@
+# ninja log v5
+0	24628	1668742170386021675	/root/ourTTC/cuda_op/build/temp.linux-x86_64-cpython-37/grid_sample.o	346d7d37a5902a0b
+15	24674	1668744694581282492	/root/ourTTC/cuda_op/build/temp.linux-x86_64-cpython-37/grid_sample.o	59a591c033a87d45
+15	49769	1668744719685513376	/root/ourTTC/cuda_op/build/temp.linux-x86_64-cpython-37/grid_sample_kernel.o	50d2a827c1f763db
