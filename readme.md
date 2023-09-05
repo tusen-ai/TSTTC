@@ -73,7 +73,7 @@ Here is a detailed description of each property:
 | occ_ratio       | A float value denoting the occlusion ratio of the object in the 2D images.                                               |
 | same_lane       | A boolean flag indicating whether the object is in the same lane as the ego vehicle.                                     |
 | ts              | An integer representing the timestamp of the object.                                                                     |
-| ttc_imu         | A float value representing the ground truth Time-to-Collision (TTC) of the object. Not available in the test set.         |
+| ttc_imu         | A float value representing the ground truth TTC of the object. Not available in the test set.         |
 
 Please note that the property `ttc_imu` is not available in the test set, as mentioned in the dataset description. 
 
