@@ -75,17 +75,8 @@ Here is a detailed description of each property:
 | ts              | An integer representing the timestamp of the object.                                                                     |
 | ttc_imu         | A float value representing the ground truth Time-to-Collision (TTC) of the object. Not available in the test set.         |
 
-Please note that the property `ttc_imu` is not available in the test set, as mentioned in the dataset description. And the The corner order of box_3d_lidar is as follow:
-<!-- 
-<pre>
-   4--------7
-  /|       /|
- 5--------6 .
- | |      | |
- . 0--------3
- |/       |/
- 1--------2
-</pre> -->
+Please note that the property `ttc_imu` is not available in the test set, as mentioned in the dataset description. 
+
 
 ## Dataset API
 For the usage of the dataset API, please refer to [TSTTCDatasetDemo](./data/TSTTCDatasetDemo.ipynb).
