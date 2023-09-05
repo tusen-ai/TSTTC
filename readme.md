@@ -1,7 +1,7 @@
 # TSTTC for Time-To-Contact estimation.
 
 ## Introduction
-The TSTTC dataset is a large scale dataset for TTC estimation via monocular images. For more details, please refer to our paper on Arxiv. To download the dataset and evaluation result on test set, please refer to the [TSTTC](https://open-dataset.tusen.ai/) webpage.
+The TSTTC dataset is a large scale dataset for TTC estimation via monocular images. For more details, please refer to our paper on Arxiv. To download the dataset and evaluate result on test set, please refer to the [TSTTC](https://open-dataset.tusen.ai/) webpage.
 
 ## Dataset Sturcture
 
