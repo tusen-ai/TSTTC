@@ -143,3 +143,12 @@ python tools/train.py -f ./exp/Deep_TTC.py -d 1 -b 8 --fp16
 
 * [https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 </details>
+
+## Reference
+If you use TSTTC in your research, please cite our work:
+@article{shi2023tsttc,
+      title={TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios}, 
+      author={Yuheng Shi and Zehao Huang and Yan Yan and Naiyan Wang and Xiaojie Guo},
+      year={2023},
+      journal={2309.01539},
+}
