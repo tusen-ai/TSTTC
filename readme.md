@@ -87,7 +87,7 @@ For the usage of the dataset API, please refer to [TSTTCDatasetDemo](./data/TSTT
 
 Install TSTTC from source.
 ```shell
-git clone git@github.com:YuHengsss/TSTTC.git
+git clone https://github.com/tusen-ai/TSTTC
 cd TSTTC
 ```
 
