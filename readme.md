@@ -3,7 +3,7 @@
 ## Introduction
 The TSTTC dataset is a large scale dataset for TTC estimation via monocular images. For more details, please refer to our paper on [Arxiv](https://arxiv.org/abs/2309.01539). To download the dataset and evaluate result on test set, please refer to the [TSTTC](https://open-dataset.tusen.ai/) webpage.
 
-## Dataset Sturcture
+## Dataset Structure
 
 The TSTTC dataset is organized into four main folders: `train`, `val`, `test`, and `nerf`, following the data structure outlined below:
 
